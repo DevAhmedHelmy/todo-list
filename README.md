@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Laravel WebSockets Demo 🛰
+# Laravel WebSockets Todo List 🛰
 
 This is a demo application built with the [Laravel WebSockets](https://github.com/beyondcode/laravel-websockets) package.
 
